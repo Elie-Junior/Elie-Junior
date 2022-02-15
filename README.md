@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elie-Junior
-- 👀 I’m interested in developing softwares and and apps
+- 👀 I’m interested in software engineer and information Technology
 - 🌱 I’m currently learning Python and I'm majoring in Computer science
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @ moussa.elie@yahoo.com
